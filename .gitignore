@@ -1,0 +1,13 @@
+# Truffle/Build dosyaları
+build/
+
+# Node.js bağımlılıkları
+node_modules/
+frontend/node_modules/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
