@@ -8,8 +8,8 @@ import { ethers } from 'ethers';
 import MyTokenABI from './abis/MyToken.json';
 import EnergyShareABI from './abis/EnergyShare.json';
 
-const MY_TOKEN_ADDRESS = "0x150Faed50b7707aBC8E63C728fa9e19503f991eA";
-const ENERGY_SHARE_ADDRESS = "0xA07ed85E6dBFE64A782A023482FDc8d91fB917Cf";
+const MY_TOKEN_ADDRESS = "0x7a988B158Bd66dd3925a91f27072b3f06Fa9bB83";
+const ENERGY_SHARE_ADDRESS = "0x929FE2db42F9C95a8369e95e5a62309AfCFA205F";
 // --------------------------
 
 function App() {
